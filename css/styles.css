@@ -209,9 +209,12 @@ button:focus { outline-style: none; }
 	font-weight: 600;
 }
 
+#about h2 a {
+	color: #7efff5; ;
+}
+
 #about a:hover {
 	text-decoration: underline;
-
 }
 
 #about h2 a:hover {
@@ -241,7 +244,6 @@ button:focus { outline-style: none; }
 }
 #about .sub-contact .socialIcons a:hover {
 	color: #7efff5;
-
 }
 
 /*.aboutText a .fab{
