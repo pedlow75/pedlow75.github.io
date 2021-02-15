@@ -205,21 +205,25 @@ button:focus { outline-style: none; }
 }
 
 #about a {
-	color: #7efff5;
+	color: #130f40;
 	font-weight: 600;
 }
 
 #about a:hover {
 	text-decoration: underline;
+
 }
 
 #about h2 a:hover {
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 #about .myWork {
+	text-decoration: none;
+}
+
+#about .myWork:hover {
 	text-decoration: underline;
-	text-underline-position: under;
 }
 
 #about .sub-contact {
